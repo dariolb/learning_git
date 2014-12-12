@@ -1,0 +1,16 @@
+body {
+  background-color: #5F5F5F;
+  text-align: center;
+}
+
+body h2 {
+  color: #FFFFFF;
+}
+
+body a:link { color: #FFFF00; text-decoration: none; }
+body a:visited { color: #FFFF00; text-decoration: none; }
+body a:hover { color: #FFFF00; text-decoration: underline; }
+body a:active { color: #FFFF00; text-decoration: none; }
+
+
+
